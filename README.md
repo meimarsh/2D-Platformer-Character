@@ -1,19 +1,17 @@
 # 2D-Platformer-Character
 
-A somewhat-generic character (including animations and state machine) appropriate for a 2D platformer built in Godot. Includes test level.
+An example of a generic 2D platformer character; the character can walk in front of a parallax background.
 
 ## Implementation
-Built using Godot 3.2.3
+Built using Godot 3.3.3
+
+## References
 
 The player sprite is adaptated from [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah. CC0 Licensed.
 
-## References
-None
+The background image was created by [Mobile Game Graphics](https://opengameart.org/content/3-parallax-backgrounds).
 
 ## Future Development
-None
-
-## Extra Credit
 None
 
 ## Created by 

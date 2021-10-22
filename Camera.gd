@@ -11,6 +11,6 @@ func _process(_delta):
 	var player2 = get_node_or_null("/root/Game/Player2")
 	if player1 != null and player2 != null:
 		var distance = (player2.position - player1.position)
-		var s = clamp(abs(distance.x) / (VP.x*0.75), 1, 1000)
+		var s = clamp(abs(distance.x) / (VP.x*0.75), 0.5, 1000)
 		zoom = Vector2(s,s)
 		position = distance/2 + player1.position

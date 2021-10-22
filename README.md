@@ -1,9 +1,15 @@
 # 2D-Platformer-Character
 
-The beginnings of a fighting-game based on the 2D Plaformer Character
+The beginnings of a 2-player fighting game based on the 2D Plaformer Character
 
 ## Implementation
+
 Built using Godot 3.2.3
+
+Player 1 is controlled with WASD. Punch and kick are T and G
+
+Player 2 is controlled with the arrow keys. Punch and kick are 4 and 1 on the num pad.
+
 
 ## References
 
